@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Froilyn Joy L. Mintal | Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar">
+
+            <a href="#home" class="logo">
+                <span>&lt;/&gt;</span> MyPortfolio
+            </a>
+
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+            </ul>
+
+        </nav>
+    </header>
+
+
+    <main>
+
+        <section id="home" class="hero">
+
+            <div class="circle circle-one"></div>
+            <div class="circle circle-two"></div>
+
+            <div class="hero-content">
+
+                <p class="welcome">
+                    Welcome to my portfolio
+                </p>
+
+                <h1>
+                    Hi, I'm
+                    <span>Froilyn Joy L. Mintal</span>
+                </h1>
+
+                <h2>
+                    Computer Science Student
+                </h2>
+
+                <p class="intro">
+                    I am passionate about programming, web development,
+                    and technology. I enjoy turning ideas into creative
+                    and useful digital experiences.
+                </p>
+
+                <p class="tagline">
+                    "Learn. Create. Innovate."
+                </p>
+
+                <div class="buttons">
+
+                    <a href="#about" class="btn primary-btn">
+                        Learn More →
+                    </a>
+
+                    <a href="#skills" class="btn secondary-btn">
+                        View My Skills
+                    </a>
+
+                </div>
+
+                <div class="social-links">
+
+                    <a href="#" title="GitHub">GitHub</a>
+
+                    <a href="#" title="Facebook">Facebook</a>
+
+                    <a href="#" title="Email">Email</a>
+
+                </div>
+
+            </div>
+
+            <div class="profile-container">
+
+                <div class="profile-glow"></div>
+
+                <div class="profile-card">
+
+                    <img
+                        src="formalpic.png"
+                        alt="Profile photo of Froilyn Joy L. Mintal"
+                    >
+
+                    <div class="profile-label">
+
+                        <span class="status-dot"></span>
+
+                        Available for learning
+
+                    </div>
+
+                </div>
+
+                <div class="floating-card card-one">
+                    💻 Coding
+                </div>
+
+                <div class="floating-card card-two">
+                    🚀 Creating
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <section id="about" class="about">
+
+            <div class="about-container">
+
+                <div class="section-heading">
+
+                    <p class="section-label">
+                        GET TO KNOW ME
+                    </p>
+
+                    <h2>
+                        About <span>Me</span>
+                    </h2>
+
+                    <p class="section-description">
+                        A little more about who I am, what I enjoy,
+                        and my journey as a Computer Science student.
+                    </p>
+
+                </div>
+
+
+                <div class="about-content">
+
+
+                    <div class="about-text">
+
+                        <div class="about-card">
+
+                            <div class="card-icon">
+                                👋
+                            </div>
+
+                            <div>
+
+                                <h3>
+                                    Who I Am
+                                </h3>
+
+                                <p>
+                                    I am Froilyn Joy L. Mintal, a
+                                    Computer Science student who is
+                                    interested in programming, web
+                                    development, and technology.
+                                </p>
+
+                                <p>
+                                    I enjoy learning new concepts
+                                    and applying them through projects.
+                                    I believe that every project is an
+                                    opportunity to improve my skills,
+                                    explore new ideas, and become a
+                                    better developer.
+                                </p>
+
+                            </div>
+
+                        </div>
+
+                        <div class="about-card">
+
+                            <div class="card-icon">
+                                🎓
+                            </div>
+
+                            <div>
+
+                                <h3>
+                                    My Background
+                                </h3>
+
+                                <p>
+                                    My studies in Computer Science
+                                    have introduced me to programming,
+                                    web development, software development,
+                                    and different areas of technology.
+                                </p>
+
+                                <p>
+                                    Through school activities and personal
+                                    projects, I continue to practice my
+                                    technical skills while learning how
+                                    technology can be used to solve
+                                    real-world problems.
+                                </p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="hobbies-section">
+
+                        <h3>
+                            Things I Enjoy
+                        </h3>
+
+                        <p>
+                            Outside of studying, these are some of the
+                            things I enjoy doing in my free time.
+                        </p>
+
+
+                        <div class="hobbies-grid">
+
+                            <div class="hobby-card">
+
+                                <div class="hobby-icon">
+                                    💻
+                                </div>
+
+                                <h4>
+                                    Coding
+                                </h4>
+
+                                <p>
+                                    Building projects and practicing
+                                    programming.
+                                </p>
+
+                            </div>
+
+
+                            <div class="hobby-card">
+
+                                <div class="hobby-icon">
+                                    🎮
+                                </div>
+
+                                <h4>
+                                    Gaming
+                                </h4>
+
+                                <p>
+                                    Playing games and exploring
+                                    interactive experiences.
+                                </p>
+
+                            </div>
+
+
+                            <div class="hobby-card">
+
+                                <div class="hobby-icon">
+                                    🎬
+                                </div>
+
+                                <h4>
+                                    Movies
+                                </h4>
+
+                                <p>
+                                    Watching movies and discovering
+                                    new stories.
+                                </p>
+
+                            </div>
+
+
+                            <div class="hobby-card">
+
+                                <div class="hobby-icon">
+                                    🏀
+                                </div>
+
+                                <h4>
+                                    Sports
+                                </h4>
+
+                                <p>
+                                    Trying and enjoying to play 
+                                    various sports.
+                                </p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <section id="skills" class="skills-placeholder">
+
+            <h2>
+                Skills
+            </h2>
+
+            <p>
+                Skills section coming soon...
+            </p>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+
+        <p>
+            © 2026 Froilyn Joy L. Mintal. All rights reserved.
+        </p>
+
+    </footer>
+
+</body>
+
+</html>
